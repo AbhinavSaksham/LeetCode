@@ -7,7 +7,7 @@ class Solution:
         right = len(s) - 1
         
         while left < right:
-            # Swap characters at left and right indices
+            # Swap character at left and right indices
             s[left], s[right] = s[right], s[left]
             
             # Move left pointer to the right and right pointer to the left
