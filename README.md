@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1972-rotating-the-box](https://github.com/AbhinavSaksham/LeetCode/tree/master/1972-rotating-the-box) |
 | [3227-find-missing-and-repeated-values](https://github.com/AbhinavSaksham/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3637-trionic-array-i](https://github.com/AbhinavSaksham/LeetCode/tree/master/3637-trionic-array-i) |
 ## Hash Table
 |  |
 | ------- |
