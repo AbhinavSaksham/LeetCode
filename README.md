@@ -18,10 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AbhinavSaksham/LeetCode/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/AbhinavSaksham/LeetCode/tree/master/0067-add-binary) |
 | [1894-merge-strings-alternately](https://github.com/AbhinavSaksham/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AbhinavSaksham/LeetCode/tree/master/0067-add-binary) |
 | [2649-count-total-number-of-colored-cells](https://github.com/AbhinavSaksham/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/AbhinavSaksham/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Array
@@ -54,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AbhinavSaksham/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbhinavSaksham/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/AbhinavSaksham/LeetCode/tree/master/0704-binary-search) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/AbhinavSaksham/LeetCode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/AbhinavSaksham/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
