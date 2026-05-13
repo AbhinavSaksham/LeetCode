@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/AbhinavSaksham/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AbhinavSaksham/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AbhinavSaksham/LeetCode/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/AbhinavSaksham/LeetCode/tree/master/0046-permutations) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbhinavSaksham/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/AbhinavSaksham/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AbhinavSaksham/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/AbhinavSaksham/LeetCode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/AbhinavSaksham/LeetCode/tree/master/0176-second-highest-salary) |
 | [0184-department-highest-salary](https://github.com/AbhinavSaksham/LeetCode/tree/master/0184-department-highest-salary) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/AbhinavSaksham/LeetCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
