@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/AbhinavSaksham/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/AbhinavSaksham/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/AbhinavSaksham/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/AbhinavSaksham/LeetCode/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AbhinavSaksham/LeetCode/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/AbhinavSaksham/LeetCode/tree/master/0231-power-of-two) |
 | [2649-count-total-number-of-colored-cells](https://github.com/AbhinavSaksham/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/AbhinavSaksham/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Array
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AbhinavSaksham/LeetCode/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/AbhinavSaksham/LeetCode/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
