@@ -18,9 +18,8 @@ public:
         if (root == NULL)
             return 0;
 
-        int heightleft = maxDepth(root->left);
-
-        int heightright = maxDepth(root->right);
+        int heightleft = maxDepth(root->left); //left
+        int heightright = maxDepth(root->right); //right
 
         if (heightright > heightleft)
             return heightright + 1;
