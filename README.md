@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/AbhinavSaksham/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0704-binary-search](https://github.com/AbhinavSaksham/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AbhinavSaksham/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1929-concatenation-of-array](https://github.com/AbhinavSaksham/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1972-rotating-the-box](https://github.com/AbhinavSaksham/LeetCode/tree/master/1972-rotating-the-box) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AbhinavSaksham/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/AbhinavSaksham/LeetCode/tree/master/2653-sliding-subarray-beauty) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AbhinavSaksham/LeetCode/tree/master/0067-add-binary) |
+| [1929-concatenation-of-array](https://github.com/AbhinavSaksham/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Database
 |  |
 | ------- |
