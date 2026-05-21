@@ -21,7 +21,7 @@ public:
             return false;
         }
 
-        if (p->val != q->val) { // Values are different
+        else if (p->val != q->val) { // Values are different
             return false;
         }
 
