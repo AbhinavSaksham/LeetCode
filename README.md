@@ -103,12 +103,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/AbhinavSaksham/LeetCode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/AbhinavSaksham/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbhinavSaksham/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0222-count-complete-tree-nodes](https://github.com/AbhinavSaksham/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0704-binary-search](https://github.com/AbhinavSaksham/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AbhinavSaksham/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AbhinavSaksham/LeetCode/tree/master/0067-add-binary) |
+| [0222-count-complete-tree-nodes](https://github.com/AbhinavSaksham/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/AbhinavSaksham/LeetCode/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/AbhinavSaksham/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AbhinavSaksham/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AbhinavSaksham/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/AbhinavSaksham/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AbhinavSaksham/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/AbhinavSaksham/LeetCode/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/AbhinavSaksham/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AbhinavSaksham/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AbhinavSaksham/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/AbhinavSaksham/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AbhinavSaksham/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/AbhinavSaksham/LeetCode/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
