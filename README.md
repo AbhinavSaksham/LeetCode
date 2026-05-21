@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AbhinavSaksham/LeetCode/tree/master/0015-3sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AbhinavSaksham/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/AbhinavSaksham/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/AbhinavSaksham/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AbhinavSaksham/LeetCode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/AbhinavSaksham/LeetCode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AbhinavSaksham/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AbhinavSaksham/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AbhinavSaksham/LeetCode/tree/master/0035-search-insert-position) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AbhinavSaksham/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/AbhinavSaksham/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/AbhinavSaksham/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AbhinavSaksham/LeetCode/tree/master/0242-valid-anagram) |
