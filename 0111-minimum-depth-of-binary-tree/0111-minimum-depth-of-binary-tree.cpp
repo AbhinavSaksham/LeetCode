@@ -12,8 +12,8 @@
 class Solution {
 public:
     int minDepth(TreeNode* root) {
-        // int left = 0;
-        // int right = 0;
+        int left = 0;
+        int right = 0;
 
         if (root == NULL)
         {
