@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AbhinavSaksham/LeetCode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/AbhinavSaksham/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AbhinavSaksham/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/AbhinavSaksham/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/AbhinavSaksham/LeetCode/tree/master/0231-power-of-two) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/AbhinavSaksham/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2649-count-total-number-of-colored-cells](https://github.com/AbhinavSaksham/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AbhinavSaksham/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbhinavSaksham/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AbhinavSaksham/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Design
@@ -333,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/AbhinavSaksham/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AbhinavSaksham/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
