@@ -14,9 +14,9 @@ public:
 
         ans.push_back(temp);
 
-        if(index == nums.size()){
-            return;
-        }
+        // if(index == nums.size()){
+        //     return;
+        // }
 
         for (int i = index; i < nums.size(); i++) {
 
