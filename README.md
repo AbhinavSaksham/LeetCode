@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AbhinavSaksham/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/AbhinavSaksham/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/AbhinavSaksham/LeetCode/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/AbhinavSaksham/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/AbhinavSaksham/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AbhinavSaksham/LeetCode/tree/master/0242-valid-anagram) |
 | [1894-merge-strings-alternately](https://github.com/AbhinavSaksham/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AbhinavSaksham/LeetCode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/AbhinavSaksham/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/AbhinavSaksham/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AbhinavSaksham/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/AbhinavSaksham/LeetCode/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AbhinavSaksham/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbhinavSaksham/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/AbhinavSaksham/LeetCode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/AbhinavSaksham/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/AbhinavSaksham/LeetCode/tree/master/0079-word-search) |
 | [1972-rotating-the-box](https://github.com/AbhinavSaksham/LeetCode/tree/master/1972-rotating-the-box) |
 | [3227-find-missing-and-repeated-values](https://github.com/AbhinavSaksham/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Stack
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/AbhinavSaksham/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/AbhinavSaksham/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/AbhinavSaksham/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AbhinavSaksham/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/AbhinavSaksham/LeetCode/tree/master/0090-subsets-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/AbhinavSaksham/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Tree
@@ -224,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/AbhinavSaksham/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AbhinavSaksham/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/AbhinavSaksham/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/AbhinavSaksham/LeetCode/tree/master/0100-same-tree) |
