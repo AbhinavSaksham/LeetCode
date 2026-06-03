@@ -12,9 +12,9 @@ class Solution {
 public:
     ListNode* sortList(ListNode* head) {
 
-        vector<int> arr;
+        vector<int> arr; //vector 
 
-        ListNode* temp = head;
+        ListNode* temp = head;  //traverse the list 
 
         while(temp != NULL) {
 
@@ -22,9 +22,9 @@ public:
             temp = temp->next;
         }
 
-        sort(arr.begin(), arr.end());
+        sort(arr.begin(), arr.end()); //sort the arr
 
-        temp = head;
+        temp = head; //insert to list again
 
         int i = 0;
 
