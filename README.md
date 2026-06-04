@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/AbhinavSaksham/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbhinavSaksham/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/AbhinavSaksham/LeetCode/tree/master/0344-reverse-string) |
+| [0658-find-k-closest-elements](https://github.com/AbhinavSaksham/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/AbhinavSaksham/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/AbhinavSaksham/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1972-rotating-the-box](https://github.com/AbhinavSaksham/LeetCode/tree/master/1972-rotating-the-box) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/AbhinavSaksham/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/AbhinavSaksham/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/AbhinavSaksham/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0658-find-k-closest-elements](https://github.com/AbhinavSaksham/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/AbhinavSaksham/LeetCode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/AbhinavSaksham/LeetCode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AbhinavSaksham/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbhinavSaksham/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbhinavSaksham/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/AbhinavSaksham/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0658-find-k-closest-elements](https://github.com/AbhinavSaksham/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/AbhinavSaksham/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AbhinavSaksham/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Bit Manipulation
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbhinavSaksham/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/AbhinavSaksham/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0658-find-k-closest-elements](https://github.com/AbhinavSaksham/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AbhinavSaksham/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/AbhinavSaksham/LeetCode/tree/master/2653-sliding-subarray-beauty) |
 ## Dynamic Programming
@@ -295,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AbhinavSaksham/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AbhinavSaksham/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AbhinavSaksham/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/AbhinavSaksham/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0853-car-fleet](https://github.com/AbhinavSaksham/LeetCode/tree/master/0853-car-fleet) |
 | [0912-sort-an-array](https://github.com/AbhinavSaksham/LeetCode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AbhinavSaksham/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -308,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/AbhinavSaksham/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/AbhinavSaksham/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/AbhinavSaksham/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/AbhinavSaksham/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/AbhinavSaksham/LeetCode/tree/master/0912-sort-an-array) |
 ## Monotonic Queue
 |  |
