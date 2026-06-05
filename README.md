@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/AbhinavSaksham/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/AbhinavSaksham/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AbhinavSaksham/LeetCode/tree/master/0079-word-search) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/AbhinavSaksham/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/AbhinavSaksham/LeetCode/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AbhinavSaksham/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbhinavSaksham/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/AbhinavSaksham/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/AbhinavSaksham/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/AbhinavSaksham/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/AbhinavSaksham/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbhinavSaksham/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbhinavSaksham/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/AbhinavSaksham/LeetCode/tree/master/0222-count-complete-tree-nodes) |
