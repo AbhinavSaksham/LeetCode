@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/AbhinavSaksham/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AbhinavSaksham/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AbhinavSaksham/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/AbhinavSaksham/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/AbhinavSaksham/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/AbhinavSaksham/LeetCode/tree/master/0853-car-fleet) |
 ## Binary Search
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AbhinavSaksham/LeetCode/tree/master/0146-lru-cache) |
+| [0232-implement-queue-using-stacks](https://github.com/AbhinavSaksham/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/AbhinavSaksham/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/AbhinavSaksham/LeetCode/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
