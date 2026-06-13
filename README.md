@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AbhinavSaksham/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AbhinavSaksham/LeetCode/tree/master/0344-reverse-string) |
 | [1894-merge-strings-alternately](https://github.com/AbhinavSaksham/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [3838-weighted-word-mapping](https://github.com/AbhinavSaksham/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Math
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/AbhinavSaksham/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AbhinavSaksham/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3637-trionic-array-i](https://github.com/AbhinavSaksham/LeetCode/tree/master/3637-trionic-array-i) |
+| [3838-weighted-word-mapping](https://github.com/AbhinavSaksham/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AbhinavSaksham/LeetCode/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/AbhinavSaksham/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AbhinavSaksham/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3838-weighted-word-mapping](https://github.com/AbhinavSaksham/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Database
 |  |
 | ------- |
