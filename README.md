@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/AbhinavSaksham/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AbhinavSaksham/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/AbhinavSaksham/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/AbhinavSaksham/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AbhinavSaksham/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/AbhinavSaksham/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/AbhinavSaksham/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/AbhinavSaksham/LeetCode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/AbhinavSaksham/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/AbhinavSaksham/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AbhinavSaksham/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbhinavSaksham/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/AbhinavSaksham/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/AbhinavSaksham/LeetCode/tree/master/0344-reverse-string) |
 | [0658-find-k-closest-elements](https://github.com/AbhinavSaksham/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/AbhinavSaksham/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/AbhinavSaksham/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AbhinavSaksham/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/AbhinavSaksham/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/AbhinavSaksham/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/AbhinavSaksham/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/AbhinavSaksham/LeetCode/tree/master/0853-car-fleet) |
 ## Binary Search
