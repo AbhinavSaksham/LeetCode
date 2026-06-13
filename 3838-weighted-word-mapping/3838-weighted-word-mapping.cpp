@@ -14,10 +14,8 @@ public:
             }
 
             int mod = sum % 26; //get value for curr weight
-
             char curr = 'z' - mod; // map char from weight(mod)
-
-            ans.push_back(curr);
+            ans.push_back(curr); //add to ans
 
         }
 
