@@ -2,12 +2,12 @@ class Solution {
 public:
     string longestPalindrome(string s) {
 
-        int start = 0;      // Starting index of longest palindrome
-        int maxLen = 1;     // Length of longest palindrome
+        int start = 0;
+        int maxLen = 1;
 
         for(int i = 0; i < s.size(); i++) {
 
-            // Check odd length palindrome
+            // Odd length palindrome
             int left = i;
             int right = i;
 
@@ -15,9 +15,10 @@ public:
                   right < s.size() &&
                   s[left] == s[right]) {
 
-                if(right - left + 1 > maxLen) {
+                int len = right - left + 1;
 
-                    maxLen = right - left + 1;
+                if(len > maxLen) {
+                    maxLen = len;
                     start = left;
                 }
 
@@ -25,7 +26,7 @@ public:
                 right++;
             }
 
-            // Check even length palindrome
+            // Even length palindrome
             left = i;
             right = i + 1;
 
@@ -33,9 +34,10 @@ public:
                   right < s.size() &&
                   s[left] == s[right]) {
 
-                if(right - left + 1 > maxLen) {
+                int len = right - left + 1;
 
-                    maxLen = right - left + 1;
+                if(len > maxLen) {
+                    maxLen = len;
                     start = left;
                 }
 
@@ -44,7 +46,6 @@ public:
             }
         }
 
-        // Return longest palindromic substring
         return s.substr(start, maxLen);
     }
 };
