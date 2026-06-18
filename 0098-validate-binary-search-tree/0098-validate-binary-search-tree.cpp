@@ -13,8 +13,12 @@
 
 class Solution {
 public:
+    bool isValidBST(TreeNode* root) {
 
-    bool solve(TreeNode* root, long minVal, long maxVal) {
+        return validate(root, LONG_MIN, LONG_MAX);
+    }
+
+    bool validate(TreeNode* root, long minVal, long maxVal) {
 
         if (root == NULL)
             return true;
@@ -22,12 +26,7 @@ public:
         if (root->val <= minVal || root->val >= maxVal)
             return false;
 
-        return solve(root->left, minVal, root->val) &&
-               solve(root->right, root->val, maxVal);
-    }
-
-    bool isValidBST(TreeNode* root) {
-
-        return solve(root, LONG_MIN, LONG_MAX);
+        return validate(root->left, minVal, root->val) &&
+               validate(root->right, root->val, maxVal);
     }
 };
