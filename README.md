@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/AbhinavSaksham/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AbhinavSaksham/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/AbhinavSaksham/LeetCode/tree/master/0344-reverse-string) |
+| [1143-longest-common-subsequence](https://github.com/AbhinavSaksham/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/AbhinavSaksham/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [3838-weighted-word-mapping](https://github.com/AbhinavSaksham/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Math
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/AbhinavSaksham/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbhinavSaksham/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AbhinavSaksham/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1143-longest-common-subsequence](https://github.com/AbhinavSaksham/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Design
 |  |
 | ------- |
