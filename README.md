@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/AbhinavSaksham/LeetCode/tree/master/0409-longest-palindrome) |
 | [1143-longest-common-subsequence](https://github.com/AbhinavSaksham/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/AbhinavSaksham/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/AbhinavSaksham/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1894-merge-strings-alternately](https://github.com/AbhinavSaksham/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [3838-weighted-word-mapping](https://github.com/AbhinavSaksham/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Math
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AbhinavSaksham/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/AbhinavSaksham/LeetCode/tree/master/0912-sort-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/AbhinavSaksham/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/AbhinavSaksham/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AbhinavSaksham/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Greedy
 |  |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/AbhinavSaksham/LeetCode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AbhinavSaksham/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/AbhinavSaksham/LeetCode/tree/master/0409-longest-palindrome) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/AbhinavSaksham/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Bucket Sort
 |  |
 | ------- |
