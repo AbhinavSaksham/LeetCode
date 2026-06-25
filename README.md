@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/AbhinavSaksham/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/AbhinavSaksham/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1894-merge-strings-alternately](https://github.com/AbhinavSaksham/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2942-find-words-containing-character](https://github.com/AbhinavSaksham/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3838-weighted-word-mapping](https://github.com/AbhinavSaksham/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Math
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/AbhinavSaksham/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AbhinavSaksham/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/AbhinavSaksham/LeetCode/tree/master/2653-sliding-subarray-beauty) |
+| [2942-find-words-containing-character](https://github.com/AbhinavSaksham/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/AbhinavSaksham/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AbhinavSaksham/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3637-trionic-array-i](https://github.com/AbhinavSaksham/LeetCode/tree/master/3637-trionic-array-i) |
