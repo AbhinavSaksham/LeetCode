@@ -24,8 +24,8 @@ public:
         if (root == NULL)
             return 0;
 
-        int left = max(0, dfs(root->left)); // Maximum gain from left subtree      
-        int right = max(0, dfs(root->right)); // Maximum gain from right subtree
+        int left = max(0, dfs(root->left)); // Maximum value from left subtree      
+        int right = max(0, dfs(root->right)); // Maximum value from right subtree
 
         ans = max(ans, left + right + root->val);  // Path passing through current node
 
