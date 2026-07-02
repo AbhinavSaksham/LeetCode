@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2653-sliding-subarray-beauty](https://github.com/AbhinavSaksham/LeetCode/tree/master/2653-sliding-subarray-beauty) |
 | [2942-find-words-containing-character](https://github.com/AbhinavSaksham/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/AbhinavSaksham/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AbhinavSaksham/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AbhinavSaksham/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3637-trionic-array-i](https://github.com/AbhinavSaksham/LeetCode/tree/master/3637-trionic-array-i) |
 | [3838-weighted-word-mapping](https://github.com/AbhinavSaksham/LeetCode/tree/master/3838-weighted-word-mapping) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AbhinavSaksham/LeetCode/tree/master/0200-number-of-islands) |
 | [1972-rotating-the-box](https://github.com/AbhinavSaksham/LeetCode/tree/master/1972-rotating-the-box) |
 | [3227-find-missing-and-repeated-values](https://github.com/AbhinavSaksham/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AbhinavSaksham/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/AbhinavSaksham/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Stack
 |  |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AbhinavSaksham/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/AbhinavSaksham/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AbhinavSaksham/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AbhinavSaksham/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AbhinavSaksham/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/AbhinavSaksham/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/AbhinavSaksham/LeetCode/tree/master/0912-sort-an-array) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AbhinavSaksham/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -502,9 +506,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/AbhinavSaksham/LeetCode/tree/master/0133-clone-graph) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AbhinavSaksham/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/AbhinavSaksham/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/AbhinavSaksham/LeetCode/tree/master/0200-number-of-islands) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AbhinavSaksham/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
