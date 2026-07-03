@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AbhinavSaksham/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/AbhinavSaksham/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0658-find-k-closest-elements](https://github.com/AbhinavSaksham/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0695-max-area-of-island](https://github.com/AbhinavSaksham/LeetCode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/AbhinavSaksham/LeetCode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/AbhinavSaksham/LeetCode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AbhinavSaksham/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/AbhinavSaksham/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/AbhinavSaksham/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/AbhinavSaksham/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/AbhinavSaksham/LeetCode/tree/master/0695-max-area-of-island) |
 | [1972-rotating-the-box](https://github.com/AbhinavSaksham/LeetCode/tree/master/1972-rotating-the-box) |
 | [3227-find-missing-and-repeated-values](https://github.com/AbhinavSaksham/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AbhinavSaksham/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/AbhinavSaksham/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AbhinavSaksham/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AbhinavSaksham/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/AbhinavSaksham/LeetCode/tree/master/0695-max-area-of-island) |
 | [0938-range-sum-of-bst](https://github.com/AbhinavSaksham/LeetCode/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AbhinavSaksham/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/AbhinavSaksham/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AbhinavSaksham/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0695-max-area-of-island](https://github.com/AbhinavSaksham/LeetCode/tree/master/0695-max-area-of-island) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AbhinavSaksham/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Divide and Conquer
 |  |
@@ -512,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/AbhinavSaksham/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/AbhinavSaksham/LeetCode/tree/master/0695-max-area-of-island) |
 ## Shortest Path
 |  |
 | ------- |
