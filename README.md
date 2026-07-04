@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/AbhinavSaksham/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/AbhinavSaksham/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/AbhinavSaksham/LeetCode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/AbhinavSaksham/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/AbhinavSaksham/LeetCode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/AbhinavSaksham/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/AbhinavSaksham/LeetCode/tree/master/0075-sort-colors) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AbhinavSaksham/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/AbhinavSaksham/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/AbhinavSaksham/LeetCode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AbhinavSaksham/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AbhinavSaksham/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/AbhinavSaksham/LeetCode/tree/master/0148-sort-list) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AbhinavSaksham/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/AbhinavSaksham/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/AbhinavSaksham/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbhinavSaksham/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AbhinavSaksham/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
