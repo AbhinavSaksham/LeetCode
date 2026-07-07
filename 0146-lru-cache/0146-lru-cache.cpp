@@ -25,9 +25,7 @@ public:
     LRUCache(int capacity) {
 
         this->capacity = capacity; //check if your capacity has empty space
-
         map.clear();
-
         head->next = tail;
         tail->prev = head; //clear the node next to tail (least used)
     }
@@ -38,11 +36,8 @@ public:
             return -1;
 
         Node* node = map[key];    // if key doesn't exist
-
         deleteNode(node); // delete last usd node
-
         insertAfterNode(node); // insert as new node next to head(most recent)
-
         return node->value;
     }
 
@@ -51,11 +46,8 @@ public:
         if (map.find(key) != map.end()) {
 
             Node* node = map[key];
-
             node->value = value;
-
             deleteNode(node);
-
             insertAfterNode(node);
         }
 
@@ -64,16 +56,12 @@ public:
             if (map.size() == capacity) {
 
                 Node* node = tail->prev;
-
                 map.erase(node->key);
-
                 deleteNode(node);
             }
 
             Node* node = new Node(key, value);
-
             map[key] = node;
-
             insertAfterNode(node);
         }
     }
@@ -81,24 +69,17 @@ public:
     void deleteNode(Node* node) { //delete node fn
 
         Node* prevNode = node->prev;
-
         Node* afterNode = node->next;
-
         prevNode->next = afterNode;
-
         afterNode->prev = prevNode;
     }
 
     void insertAfterNode(Node* node) { //insert new node fn
 
         Node* currAfterHead = head->next;
-
         head->next = node;
-
         node->next = currAfterHead;
-
         currAfterHead->prev = node;
-
         node->prev = head;
     }
 };
