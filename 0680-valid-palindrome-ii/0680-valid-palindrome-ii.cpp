@@ -4,7 +4,7 @@ public:
 
 
         if (s.length() == 0 || s.length() == 1 || s.length() == 2 ){
-            return true;
+            return true; //base case check 
         }
 
         int left = 0;
