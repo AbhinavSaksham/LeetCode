@@ -3,7 +3,9 @@ public:
     bool validPalindrome(string s) {
 
 
-        //if (s.length() == 0 || )
+        if (s.length() == 0 || s.length() == 1 || s.length() == 2 ){
+            return true;
+        }
 
         int left = 0;
         int right = s.size() - 1;
