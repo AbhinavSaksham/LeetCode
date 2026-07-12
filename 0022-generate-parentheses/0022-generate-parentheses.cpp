@@ -8,7 +8,7 @@ public:
     }
 
   private:
-  void createP(int open, int close, int n, string temp, vector<string>& ans) {
+  void createP(int open, int close, int n, string temp, vector<string>& ans) { //recursion
 
         if (open == n && open == close){ //base case
             ans.push_back(temp);
