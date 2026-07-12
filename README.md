@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/AbhinavSaksham/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1207-unique-number-of-occurrences](https://github.com/AbhinavSaksham/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1288-remove-covered-intervals](https://github.com/AbhinavSaksham/LeetCode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/AbhinavSaksham/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AbhinavSaksham/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/AbhinavSaksham/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AbhinavSaksham/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/AbhinavSaksham/LeetCode/tree/master/0409-longest-palindrome) |
 | [1189-maximum-number-of-balloons](https://github.com/AbhinavSaksham/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/AbhinavSaksham/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/AbhinavSaksham/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AbhinavSaksham/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AbhinavSaksham/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AbhinavSaksham/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/AbhinavSaksham/LeetCode/tree/master/0853-car-fleet) |
 | [0912-sort-an-array](https://github.com/AbhinavSaksham/LeetCode/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/AbhinavSaksham/LeetCode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/AbhinavSaksham/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AbhinavSaksham/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Queue
 |  |
