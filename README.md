@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/AbhinavSaksham/LeetCode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/AbhinavSaksham/LeetCode/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/AbhinavSaksham/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhinavSaksham/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/AbhinavSaksham/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/AbhinavSaksham/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/AbhinavSaksham/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/AbhinavSaksham/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/AbhinavSaksham/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/AbhinavSaksham/LeetCode/tree/master/0853-car-fleet) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhinavSaksham/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Binary Search
 |  |
 | ------- |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/AbhinavSaksham/LeetCode/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/AbhinavSaksham/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0680-valid-palindrome-ii](https://github.com/AbhinavSaksham/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhinavSaksham/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/AbhinavSaksham/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Bucket Sort
 |  |
@@ -543,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/AbhinavSaksham/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/AbhinavSaksham/LeetCode/tree/master/0853-car-fleet) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhinavSaksham/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Combinatorics
 |  |
 | ------- |
