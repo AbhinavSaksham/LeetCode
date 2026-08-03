@@ -3,31 +3,26 @@ public:
     vector<int> dailyTemperatures(vector<int>& temperatures) {
 
         int n = temperatures.size();
+    
+        vector<int> ans(n, 0);     // Answer array initialized with 0 lol
 
-        vector<int> result(n, 0);
+        stack<int> st;  // Stack stores indices
 
-        stack<int> st;
+        for(int i = 0; i < n; i++) {
 
-        // Traverse from right to left
-        for (int i = n - 1; i >= 0; i--) {
+            // Current temperature is warmer than previous
+            while(!st.empty() &&
+                  temperatures[i] > temperatures[st.top()]) {
 
-            // Remove smaller or equal temperatures
-            while (!st.empty() &&
-                   temperatures[st.top()] <= temperatures[i]) {
-
+                int index = st.top();
                 st.pop();
+
+                ans[index] = i - index; //no of days to get warmer
             }
-
-            // If stack not empty, warmer day exists
-            if (!st.empty()) {
-
-                result[i] = st.top() - i;
-            }
-
-            // Push current index
-            st.push(i);
+            
+            st.push(i); // Push current days index
         }
 
-        return result;
+        return ans;
     }
 };
