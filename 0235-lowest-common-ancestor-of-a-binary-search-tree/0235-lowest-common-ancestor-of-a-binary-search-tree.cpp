@@ -11,9 +11,8 @@
 class Solution {
 public:
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-
-        // Base case
-        if (root == NULL) {
+         
+        if (root == NULL) { // Base case
             return NULL;
         }
 
