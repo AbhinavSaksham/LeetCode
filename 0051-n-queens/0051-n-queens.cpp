@@ -1,6 +1,14 @@
 class Solution {
 public:
 
+    vector<vector<string>> solveNQueens(int n) {
+
+        // Create empty board
+        vector<string> board(n, string(n, '.'));
+        solve(0, n, board);
+        return ans;
+    }
+
     vector<vector<string>> ans;
 
     // Track occupied columns and diagonals
@@ -8,6 +16,7 @@ public:
     unordered_set<int> diag1; // row - col
     unordered_set<int> diag2; // row + col
 
+private:
     void solve(int row, int n, vector<string>& board) {
 
         // All rows filled -> valid solution
@@ -43,15 +52,5 @@ public:
             diag1.erase(row - col);
             diag2.erase(row + col);
         }
-    }
-
-    vector<vector<string>> solveNQueens(int n) {
-
-        // Create empty board
-        vector<string> board(n, string(n, '.'));
-
-        solve(0, n, board);
-
-        return ans;
     }
 };
