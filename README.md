@@ -656,4 +656,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/AbhinavSaksham/LeetCode/tree/master/0051-n-queens) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/AbhinavSaksham/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
