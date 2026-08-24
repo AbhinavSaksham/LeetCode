@@ -418,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/AbhinavSaksham/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AbhinavSaksham/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/AbhinavSaksham/LeetCode/tree/master/0695-max-area-of-island) |
+| [0802-find-eventual-safe-states](https://github.com/AbhinavSaksham/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0938-range-sum-of-bst](https://github.com/AbhinavSaksham/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AbhinavSaksham/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/AbhinavSaksham/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AbhinavSaksham/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0695-max-area-of-island](https://github.com/AbhinavSaksham/LeetCode/tree/master/0695-max-area-of-island) |
+| [0802-find-eventual-safe-states](https://github.com/AbhinavSaksham/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AbhinavSaksham/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AbhinavSaksham/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Divide and Conquer
@@ -620,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/AbhinavSaksham/LeetCode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/AbhinavSaksham/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AbhinavSaksham/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/AbhinavSaksham/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AbhinavSaksham/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AbhinavSaksham/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/AbhinavSaksham/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -638,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/AbhinavSaksham/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AbhinavSaksham/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/AbhinavSaksham/LeetCode/tree/master/0802-find-eventual-safe-states) |
 ## Data Stream
 |  |
 | ------- |
@@ -682,4 +686,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AbhinavSaksham/LeetCode/tree/master/0207-course-schedule) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/AbhinavSaksham/LeetCode/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/AbhinavSaksham/LeetCode/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
