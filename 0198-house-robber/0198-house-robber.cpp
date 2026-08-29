@@ -19,8 +19,7 @@ public:
 
             // Either skip current house
             // or rob current house
-            dp[i] = max(dp[i - 1],
-                        dp[i - 2] + nums[i]);
+            dp[i] = max(dp[i - 1], dp[i - 2] + nums[i]);
         }
 
         return dp[n - 1];
