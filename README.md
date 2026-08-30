@@ -703,4 +703,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/AbhinavSaksham/LeetCode/tree/master/0802-find-eventual-safe-states) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/AbhinavSaksham/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
