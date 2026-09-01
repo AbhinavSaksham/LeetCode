@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/AbhinavSaksham/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/AbhinavSaksham/LeetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/AbhinavSaksham/LeetCode/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/AbhinavSaksham/LeetCode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/AbhinavSaksham/LeetCode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/AbhinavSaksham/LeetCode/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/AbhinavSaksham/LeetCode/tree/master/0242-valid-anagram) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AbhinavSaksham/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AbhinavSaksham/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/AbhinavSaksham/LeetCode/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/AbhinavSaksham/LeetCode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbhinavSaksham/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AbhinavSaksham/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AbhinavSaksham/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
