@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AbhinavSaksham/LeetCode/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/AbhinavSaksham/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/AbhinavSaksham/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/AbhinavSaksham/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/AbhinavSaksham/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/AbhinavSaksham/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/AbhinavSaksham/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/AbhinavSaksham/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/AbhinavSaksham/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AbhinavSaksham/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/AbhinavSaksham/LeetCode/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/AbhinavSaksham/LeetCode/tree/master/0695-max-area-of-island) |
 | [0797-all-paths-from-source-to-target](https://github.com/AbhinavSaksham/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/AbhinavSaksham/LeetCode/tree/master/0802-find-eventual-safe-states) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/AbhinavSaksham/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/AbhinavSaksham/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AbhinavSaksham/LeetCode/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/AbhinavSaksham/LeetCode/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/AbhinavSaksham/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/AbhinavSaksham/LeetCode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/AbhinavSaksham/LeetCode/tree/master/0509-fibonacci-number) |
@@ -690,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/AbhinavSaksham/LeetCode/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/AbhinavSaksham/LeetCode/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
@@ -712,4 +716,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AbhinavSaksham/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/AbhinavSaksham/LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
