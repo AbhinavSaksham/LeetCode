@@ -3,7 +3,6 @@ public:
     int coinChange(vector<int>& coins, int amount) {
 
         vector<int> dp(amount + 1, amount + 1); // dp[i] = minimum coins needed to make amount i
-
         dp[0] = 0; // base case - 0 cains for 0 amount
 
         for(int i = 1; i <= amount; i++) {
