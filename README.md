@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/AbhinavSaksham/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/AbhinavSaksham/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/AbhinavSaksham/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/AbhinavSaksham/LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/AbhinavSaksham/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Simulation
 |  |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/AbhinavSaksham/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/AbhinavSaksham/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/AbhinavSaksham/LeetCode/tree/master/0802-find-eventual-safe-states) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/AbhinavSaksham/LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AbhinavSaksham/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AbhinavSaksham/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Divide and Conquer
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/AbhinavSaksham/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/AbhinavSaksham/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AbhinavSaksham/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/AbhinavSaksham/LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AbhinavSaksham/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1143-longest-common-subsequence](https://github.com/AbhinavSaksham/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AbhinavSaksham/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -644,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/AbhinavSaksham/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/AbhinavSaksham/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/AbhinavSaksham/LeetCode/tree/master/0802-find-eventual-safe-states) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/AbhinavSaksham/LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AbhinavSaksham/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AbhinavSaksham/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/AbhinavSaksham/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -726,4 +730,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/AbhinavSaksham/LeetCode/tree/master/0322-coin-change) |
+## Bitmask
+|  |
+| ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/AbhinavSaksham/LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
 <!---LeetCode Topics End-->
