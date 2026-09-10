@@ -14,7 +14,7 @@ public:
             totalGas += gas[i];
             totalCost += cost[i];
 
-            // Gas gained/lost at current station
+            // Gas gained or lost at current station
             tank += gas[i] - cost[i];
 
             // Cannot reach next station, so start from next station
