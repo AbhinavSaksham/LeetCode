@@ -18,11 +18,10 @@ public:
                 candy[i] = max(candy[i], candy[i + 1] + 1);
             }
         }
-
+        
         int ans = 0;
 
-        // Calculate total candies
-        for(int i = 0; i < n; i++) {
+        for(int i = 0; i < n; i++) { // Ccalculate total 
             ans += candy[i];
         }
 
