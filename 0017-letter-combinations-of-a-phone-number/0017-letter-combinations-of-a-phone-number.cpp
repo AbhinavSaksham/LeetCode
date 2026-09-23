@@ -36,5 +36,4 @@ private:
             current.pop_back(); // Backtrack
         }
     }
-
 };
