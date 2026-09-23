@@ -19,9 +19,7 @@ public:
 private: 
 
     vector<string> ans;
-
-    void solve(string& digits, int index, string current,
-               vector<string>& mapping) {
+    void solve(string& digits, int index, string current, vector<string>& mapping) {
 
         // All digits are processed
         if(index == digits.size()) {
