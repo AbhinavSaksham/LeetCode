@@ -18,7 +18,6 @@ public:
                 ans[i] = depth % 2;
             }
         }
-
         return ans;
     }
 };
