@@ -16,7 +16,7 @@ public:
                     char top = st.top(); //get top element of the stack 
                     st.pop(); //remove top element now 
                 
-                    if (c == ')' && top != '(') return false;  //close is there but not open
+                    if (c == ')' && top != '(') return false;  //close but not open
                     if (c == '}' && top != '{') return false;
                     if (c == ']' && top != '[') return false;
                 }
