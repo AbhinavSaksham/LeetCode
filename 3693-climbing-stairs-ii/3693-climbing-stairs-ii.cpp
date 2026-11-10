@@ -13,9 +13,7 @@ public:
                 if(i - j >= 0) {
 
                     int jumpCost = costs[i - 1] + j * j;
-
-                    dp[i] = min(dp[i],
-                                dp[i - j] + jumpCost);
+                    dp[i] = min(dp[i], dp[i - j] + jumpCost);
                 }
             }
         }
