@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AbhinavSaksham/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AbhinavSaksham/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3637-trionic-array-i](https://github.com/AbhinavSaksham/LeetCode/tree/master/3637-trionic-array-i) |
+| [3693-climbing-stairs-ii](https://github.com/AbhinavSaksham/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AbhinavSaksham/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3838-weighted-word-mapping](https://github.com/AbhinavSaksham/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/AbhinavSaksham/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/AbhinavSaksham/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AbhinavSaksham/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AbhinavSaksham/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3693-climbing-stairs-ii](https://github.com/AbhinavSaksham/LeetCode/tree/master/3693-climbing-stairs-ii) |
 ## Design
 |  |
 | ------- |
